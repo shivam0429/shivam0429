@@ -18,11 +18,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
+
+  
   <a href="mailto:shivam.singh.3994@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Email">
   </a>
+
+  
   <a href="https://www.instagram.com/_shivam29_/">
-    <img src="./assets/Instagram_logo.png" height="28px" width=90px" alt="Instagram">
+    <img src="./assets/Instagram_logo.png" height="28px" width=80px" alt="Instagram">
   </a> 
 </p>
 
