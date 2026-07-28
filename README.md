@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Email">
   </a>
   <a href="https://www.instagram.com/_shivam29_/">
-    <img src="./assets/Instagram_logo.png" alt="Instagram">
+    <img src="./assets/Instagram_logo.png" height="28px" width=100px" alt="Instagram">
   </a> 
 </p>
 
