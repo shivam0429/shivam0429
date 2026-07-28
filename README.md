@@ -26,7 +26,7 @@
 
   
   <a href="https://www.instagram.com/_shivam29_/">
-    <img src="./assets/Instagram_logo.png" height="28px" width=80px" alt="Instagram">
+    <img src="./assets/Instagram_logo.png" height="28px" width=50px" alt="Instagram">
   </a> 
 </p>
 
