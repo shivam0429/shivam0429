@@ -21,6 +21,9 @@
   <a href="mailto:shivam.singh.3994@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Email">
   </a>
+  <a href="https://www.instagram.com/_shivam29_/">
+    <img src="./assets/instagram_logo.svg" alt="Instagram">
+  </a> 
 </p>
 
 ## About Me
