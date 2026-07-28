@@ -1,6 +1,8 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivam0429/shivam0429/main/assets/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivam0429/shivam0429/main/assets/light.svg">
+
+  
   <img alt="Shivam Singh — Full Stack Developer" src="https://raw.githubusercontent.com/shivam0429/shivam0429/main/assets/light.svg">
 </picture>
 
